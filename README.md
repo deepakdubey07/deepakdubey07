@@ -18,7 +18,7 @@ Python, Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, XGBoost, LightGBM, CTGA
 
 ## Experience
 
-Interned at **TestAIng, Bangalore** (2025) where I built synthetic data generation pipelines using CTGAN and TVAE on healthcare datasets, evaluated using TSTR methodology — 70% accuracy with Gradient Boosting.
+Interned at **TestAIng, Bangalore** (2025) where I built synthetic data generation pipelines using CTGAN and TVAE on healthcare datasets, evaluated using TSTR methodology - 70% accuracy with Gradient Boosting.
 
 Previously at **Manlitics, Pune** (2024) handling data collection, CRM management and campaign analysis.
 
