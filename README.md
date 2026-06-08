@@ -1,76 +1,29 @@
-# Hi, I'm Deepak Dubey 👋
+# Deepak Dubey
 
-🎓 B.Tech Computer Science @ DY Patil International University, Pune (2022–2026)
-📍 Pune, Maharashtra, India
-📧 dubeydeepak0707@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/deepakdubey07)
+B.Tech Computer Science student at DY Patil International University, Pune (2022–2026), interested in Data Science, Machine Learning and AI applications. I like building things that actually work and solve real problems.
 
----
+📍 Pune, Maharashtra &nbsp;&nbsp; 📧 dubeydeepak0707@gmail.com &nbsp;&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/deepakdubey07)
 
-## 👨‍💻 About Me
+## What I work with
 
-I'm a Data Science & AI enthusiast passionate about building real-world machine learning solutions. I've worked on AI-powered healthcare applications, synthetic data generation pipelines, and IoT-based systems. Currently seeking Data/AI roles at top organizations.
+Python, Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, XGBoost, LightGBM, CTGAN, TVAE, SDV, Power BI, Tableau, MySQL, MongoDB, AWS, Vercel
 
----
+## Projects
 
-## 🛠️ Skills
+**DermaScanX** — AI-powered skin disease screening web app trained on the HAM10000 dataset (10,015 images, 7 classes). Built with Flask, TensorFlow and EfficientNetV2B0. Achieves 75.82% Top-1 and 96.72% Top-3 accuracy using a 3-tier inference pipeline. [Live here](https://skinai-cnn-detection.vercel.app)
 
-**Languages:** Python, C
+**Human Following Robot** — Arduino-based robot using ultrasonic sensors for real-time human tracking.
 
-**ML & Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, CTGAN, TVAE, SDV, XGBoost, LightGBM, NLTK, CNN, Transfer Learning
+**Surveillance Camera & Tracking System** — IoT-based system using ESP32 and OpenCV for live object tracking.
 
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+## Experience
 
-**Databases:** MySQL, MongoDB, PostgreSQL, SQLite
+Interned at **TestAIng, Bangalore** (2025) where I built synthetic data generation pipelines using CTGAN and TVAE on healthcare datasets, evaluated using TSTR methodology — 70% accuracy with Gradient Boosting.
 
-**Cloud:** AWS (S3, IAM, Rekognition, SageMaker, Comprehend), Vercel
+Previously at **Manlitics, Pune** (2024) handling data collection, CRM management and campaign analysis.
 
-**Tools:** Jupyter Notebook, Google Colab, VS Code, Anaconda
+## Certifications
 
----
-
-## 🚀 Projects
-
-### 🔬 DermaScanX — AI Skin Disease Detection
-- Flask + TensorFlow + EfficientNetV2B0 + HuggingFace + SQLite
-- Trained on HAM10000 dataset (10,015 images, 7 classes)
-- **75.82% Top-1 and 96.72% Top-3 accuracy**
-- 3-tier inference pipeline (NVIDIA API → HuggingFace ViT → TFLite CNN)
-- 🌐 [Live Demo](https://skinai-cnn-detection.vercel.app)
-
-### 🤖 Human Following Robot
-- Built using Arduino and Ultrasonic Sensors
-
-### 📷 Surveillance Camera & Tracking System
-- Built using ESP32, OpenCV and IoT
-
----
-
-## 💼 Experience
-
-**ML Intern @ TestAIng, Bangalore** (Jun–Aug 2025)
-- Built synthetic data generation pipelines using CTGAN and TVAE via SDV library
-- Evaluated on healthcare datasets using TSTR methodology
-- Achieved 70% accuracy and 0.41 F1 score with Gradient Boosting
-
-**Data Analyst Intern @ Manlitics, Pune** (Jun–Aug 2024)
-- Data collection, CRM management and campaign analysis
-
----
-
-## 📜 Certifications
-
-- 🏆 IBM Data Science Professional Certificate — Coursera
-- 🏆 Google Project Management Professional Certificate — Coursera
-
----
-
-## 📊 GitHub Stats
+IBM Data Science Professional Certificate · Google Project Management Professional Certificate
 
 ![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakdubey07&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepakdubey07&layout=compact&theme=tokyonight)
-
----
-
-⭐ *"Turning data into decisions."*
