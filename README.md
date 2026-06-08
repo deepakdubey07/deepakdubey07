@@ -25,5 +25,3 @@ Previously at **Manlitics, Pune** (2024) handling data collection, CRM managemen
 ## Certifications
 
 IBM Data Science Professional Certificate · Google Project Management Professional Certificate
-
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepakdubey07&show_icons=true&theme=tokyonight)
