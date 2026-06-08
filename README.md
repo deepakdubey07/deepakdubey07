@@ -10,11 +10,11 @@ Python, Pandas, NumPy, Scikit-learn, TensorFlow, OpenCV, XGBoost, LightGBM, CTGA
 
 ## Projects
 
-**DermaScanX** — AI-powered skin disease screening web app trained on the HAM10000 dataset (10,015 images, 7 classes). Built with Flask, TensorFlow and EfficientNetV2B0. Achieves 75.82% Top-1 and 96.72% Top-3 accuracy using a 3-tier inference pipeline. [Live here](https://skinai-cnn-detection.vercel.app)
+**DermaScanX** - AI-powered skin disease screening web app trained on the HAM10000 dataset (10,015 images, 7 classes). Built with Flask, TensorFlow and EfficientNetV2B0. Achieves 75.82% Top-1 and 96.72% Top-3 accuracy using a 3-tier inference pipeline. [Live here](https://skinai-cnn-detection.vercel.app)
 
-**Human Following Robot** — Arduino-based robot using ultrasonic sensors for real-time human tracking.
+**Human Following Robot** - Arduino-based robot using ultrasonic sensors for real-time human tracking.
 
-**Surveillance Camera & Tracking System** — IoT-based system using ESP32 and OpenCV for live object tracking.
+**Surveillance Camera & Tracking System** - IoT-based system using ESP32 and OpenCV for live object tracking.
 
 ## Experience
 
