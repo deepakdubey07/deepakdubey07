@@ -1,6 +1,6 @@
 # Deepak Dubey
 
-B.Tech Computer Science student at DY Patil International University, Pune (2022–2026), interested in Data Science, Machine Learning and AI applications. I like building things that actually work and solve real problems.
+B.Tech Computer Science student at DY Patil International University, Pune (2022-2026), interested in Data Science, Machine Learning and AI applications. I like building things that actually work and solve real problems.
 
 📍 Pune, Maharashtra &nbsp;&nbsp; 📧 dubeydeepak0707@gmail.com &nbsp;&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/deepakdubey07)
 
